@@ -1,4 +1,4 @@
-# Walmart Black Friday Case Study  
+# Walmart Case Study  
 ## Gender-Based Purchase Behavior Analysis
 
 ---
